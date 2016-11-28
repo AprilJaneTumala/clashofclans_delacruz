@@ -621,7 +621,25 @@ class Component extends App{
     
        
          
+  
    <div class="row">
+        <div class="col s12 m12">
+          <div class="card">
+            <div class="card-image">
+              <img src="https://media.tenor.co/images/d09cb0569c9e61fb5ec0127a8a6a0fef/raw">
+              <span class="card-title">Clash of Clans: Ride of the Hog Riders (Official TV Commercial)</span>
+            </div>
+            <div class="card-action">
+            <center>
+              <a href="https://www.youtube.com/watch?v=XH3Xu1-cvII"><i class="material-icons center">movie</i> Watch Now</a>
+              
+               </center>
+            </div>
+          </div>
+        </div>
+      </div>
+
+        <div class="row">
         <div class="col s12 m12">
           <div class="card">
             <div class="card-image">
@@ -639,22 +657,6 @@ class Component extends App{
       </div>
 
 
-   <div class="row">
-        <div class="col s12 m12">
-          <div class="card">
-            <div class="card-image">
-              <img src="https://media.tenor.co/images/d09cb0569c9e61fb5ec0127a8a6a0fef/raw">
-              <span class="card-title">Clash of Clans: Ride of the Hog Riders (Official TV Commercial)</span>
-            </div>
-            <div class="card-action">
-            <center>
-              <a href="https://www.youtube.com/watch?v=XH3Xu1-cvII"><i class="material-icons center">movie</i> Watch Now</a>
-              
-               </center>
-            </div>
-          </div>
-        </div>
-      </div>
 
         <div class="row">
         <div class="col s12 m12">
